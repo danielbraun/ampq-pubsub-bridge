@@ -11,6 +11,8 @@ Clojure Libraries:
 * https://github.com/michaelklishin/langohr (Clojure RabbitMQ library)
 * https://github.com/iprally/jonotin (Clojure Google Cloud Pub/Sub)
 
+Process type: Background Service
+
 Solution outline:
 ```
 while service is running:
