@@ -2,7 +2,7 @@
 
 ```
 $ ampq | gpubsub
-$ gubsub | ampq
+$ gpubsub | ampq
 ```
 
 ## Unix solutions:
