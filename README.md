@@ -1,0 +1,1 @@
+# ampq-pubsub-bridge
