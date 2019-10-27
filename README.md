@@ -23,6 +23,10 @@ Clojure Libraries:
 * https://github.com/ovotech/clj-gcp (PubSub Integrant/Duct library)
 * https://github.com/Data-Rx/google-cloud (Google Cloud functions)
 
+REST API's:
+* https://cloud.google.com/pubsub/docs/reference/rest/#rest-resource-v1projectstopicssubscriptions (Google Pub/Sub API)
+* https://www.cloudamqp.com/docs/http.html (AMQP API)
+
 
 Process type: Background Service
 
