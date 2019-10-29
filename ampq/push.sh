@@ -1,0 +1,1 @@
+awk '{printf("payload=" $0)}' | xargs -0 /usr/local/Cellar/rabbitmq/3.7.16/sbin/rabbitmqadmin --host=whale.rmq.cloudamqp.com --port=443 --ssl --vhost=cmluenzn --username=cmluenzn --password=ekvVl9d6y5QtuW9XDodKk_7ts05qHdqo publish exchange=amq.default routing_key=myqueue
