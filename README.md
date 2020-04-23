@@ -26,6 +26,7 @@ Clojure Libraries:
 REST API's:
 * https://cloud.google.com/pubsub/docs/reference/rest/#rest-resource-v1projectstopicssubscriptions (Google Pub/Sub API)
 * https://www.cloudamqp.com/docs/http.html (AMQP API)
+* https://whale.rmq.cloudamqp.com/api/index.html (AMQP API)
 
 
 Process type: Background Service
